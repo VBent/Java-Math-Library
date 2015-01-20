@@ -134,7 +134,7 @@ public void print()
 	
 	for (int j =0; j< length; j++)
 	{
-		System.out.println("[	"+this.origin[j]+" 	]");
+		System.out.println("[	"+this.origin[j]+"   ]");
 	}
 	
 	
