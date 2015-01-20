@@ -153,18 +153,11 @@ public static Vector zero (int k)
 public static double[] clone (double[] A)
 {
 	int m = A.length;
-	
-	
 	double[] result = new double[m];
 	
 	for (int i=0; i<m; i++)
-	{
-		
-		
+	{				
 			result[i] = A[i];
-		 
-		
-		
 	} // i-for
 	
 	return result;
